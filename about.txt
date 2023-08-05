@@ -1,1 +1,14 @@
-console.log("lets begin the journey");
+ABOUT JAVASCRIPT :
+
+=> javascript is high level interepreted language that was developed in 1995.
+=>primary function of javascript is to create user friendly websites . 
+=> It enables web developers to manipulate HTML and CSS, handle user events, create animations, and perform various tasks without requiring constant communication with the server.
+
+
+Setting up devlopment environment:
+you can use node for running in your terminal.
+
+
+
+
+
